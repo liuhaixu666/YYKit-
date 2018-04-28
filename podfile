@@ -1,0 +1,13 @@
+platform :ios,'7.0'
+
+inhibit_all_warnings!
+
+xcodeproj '/Users/mac/Desktop/YYkit/YYkit.xcodeproj'
+
+target :YYkit do
+
+  pod'YYKit'
+
+
+
+end
